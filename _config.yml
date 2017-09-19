@@ -1,0 +1,32 @@
+title: Sample Blog
+description: > # this means to ignore newlines until "baseurl:"
+  Hanya sekedar blog
+permalink: ':title/'
+baseurl: "/sample-blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author Settings
+author: Sample Blog # add your name
+author-img: habib-imron-cahyo-nugroho.jpg # add your photo
+about-author: Hanya sekedar blog # add description
+twitter: Hab_15
+facebook: habibimroncn
+github: habibimroncn
+linkedin: habib-nugroho
+email: habibimron1508@gmail.com
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+
+# Visual-CV Settings
+visual-cv-url: https://www.visualcv.com/habibimroncn
