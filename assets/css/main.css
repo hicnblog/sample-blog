@@ -1081,6 +1081,7 @@ footer .copyright {
 }
 
 .post .post-content {
+  text-align: justify;
   padding: 1rem;
   width: 70%;
 }
@@ -1108,6 +1109,7 @@ footer .copyright {
 
 /* - - - - - - - - - - Post Page Styles - - - - - - - - - - */
 .wrap-content {
+  text-align: justify;
   padding: 20px;
 }
 
